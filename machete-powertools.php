@@ -4,6 +4,8 @@
  * Plugin URI: https://machetewp.com/powertools/
  * Description: Machete PowerTools is an upgrade module targeted to WordPress developers and power users. PowerTools adds new features and improves some of the Machete modules you know and love.
  * Version: 4.0
+ * Requires at least: 4.6
+ * Requires PHP: 7.0
  * Author: Nilo Velez
  * Author URI: http://www.nilovelez.com
  * License: WTFPL
